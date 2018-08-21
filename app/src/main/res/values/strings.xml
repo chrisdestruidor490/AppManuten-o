@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">appManutenção</string>
+
+    <string name="txtNome">Nome: </string>
+    <string name="txtDefeito">Descrição do defeito: </string>
+    <string name="txtValor">Valor: </string>
+    <string name="txtCategoria">Categoria: </string>
+    <string name="txtOrçamento">Orçamento: </string>
+    <string name="txtServiço">Serviço: </string>
+    <string name="txtServiçoFinalizado">ServiçoFinalizado: </string>
+    <string name="txtFormulario">FORMULÁRIO </string>
+    <string name="txtFinalizar">FINALIZADO</string>
+
+    <string name="hintNome">Digite aqui seu Nome: </string>
+    <string name="hintDefeito">Digite aqui o defeito: </string>
+    <string name="hintValor">Digite aqui o valor: </string>
+
+    <string name="selecione">Selecione...</string>
+    <string name="selecioneEstado">Selecione uma categoria</string>
+
+    <string name="txtLimpar">Limpar</string>
+    <string name="txtSair">Sair</string>
+
+
+    <string-array name="arrayCategorias">
+        <item>Selecione...</item>
+        <item>Celular</item>  <item>Televisão</item>  <item>Tablet</item>
+        <item>Notebook</item>  <item>Computador</item>  >
+    </string-array>
+</resources>
